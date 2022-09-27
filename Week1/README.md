@@ -5,7 +5,6 @@
 <center> Topik Materi : Unix Command Line - Git & Github </center>
 
 <br/>
-<br/>
 
 ## **Unix Command Line**
 
@@ -91,7 +90,6 @@
 ---
 
 <br/>
-<br/>
 
 ## <center> **Day - 2** </center>
 
@@ -167,7 +165,6 @@
 
 ---
 
-<br/>
 <br/>
 
 ## <center> **Day - 3** </center>
@@ -255,7 +252,6 @@
 ---
 
 <br/>
-<br/>
 
 ## <center> **Day - 4** </center>
 
@@ -297,7 +293,7 @@ Algoritma :
 
 ### **B. Penyajian Algoritma**
 
-- \_Deskripsi
+- _Deskripsi_
 
   Menuliskan algoritma dengan rangkaian/ untaian kalimat deskriptif guna menyelesaikan suatu masalah menggunakan bahasa yang jelas.
 
@@ -420,7 +416,6 @@ Algoritma :
 
 ---
 
-<br/>
 <br/>
 
 ## <center> **Day - 5** </center>
