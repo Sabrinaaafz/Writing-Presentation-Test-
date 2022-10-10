@@ -295,7 +295,7 @@
 
 **A. Promies**
 
-- Lalu ada Promies yang dapat digunakan untuk mengetahui adanya 3 hal penting yaitu pending, rejected, dan fulfilled pada sebuah proses
+- Lalu ada Promise yang dapat digunakan untuk mengetahui adanya 3 hal penting yaitu pending, rejected, dan fulfilled pada sebuah proses
 
 - Pending seperti proses yang sedang dijalankan namun membutuhkan waktu sampai tercapai
 
@@ -303,7 +303,7 @@
 
 - Fulfilled adalah disaat proses yang sedang dijalankan sudah tercapai
 
-- Dalam proses promies ada yang namanya resolve ( saat proses berhasil, akan ditangkap menggunakan .then ) dan rejected (saat proses gagal akan ditangkap menggunakan .catch)
+- Dalam proses promise ada yang namanya resolve ( saat proses berhasil, akan ditangkap menggunakan .then ) dan rejected (saat proses gagal akan ditangkap menggunakan .catch)
 
 ---
 
