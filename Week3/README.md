@@ -305,6 +305,8 @@
 
 - Dalam proses promise ada yang namanya resolve ( saat proses berhasil, akan ditangkap menggunakan .then ) dan rejected (saat proses gagal akan ditangkap menggunakan .catch)
 
+  ![setTimeout](img/Promise.png)
+
 ---
 
 <br>
