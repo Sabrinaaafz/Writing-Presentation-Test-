@@ -293,7 +293,7 @@
 
   ![setTimeout](img/sto.png)
 
-**A. Promies**
+**A. Promise**
 
 - Lalu ada Promise yang dapat digunakan untuk mengetahui adanya 3 hal penting yaitu pending, rejected, dan fulfilled pada sebuah proses
 
