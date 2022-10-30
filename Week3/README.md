@@ -29,15 +29,15 @@
 
 - Untuk menambahkan data kedalam array dapat menggunakan _push_ atau _unshift_
 
-  ![MenambahArray](img/arraytambah.png)
+  ![MenambahArray](Gambar/arraytambah.png)
 
 - Untuk menghapus data didalam array dapat menggunakan _pop_ atau _shift_. Dapat juga menggunakan _splice_ jika ingin menghapus data yang spesifik
 
-  ![MenghapusArray](img/arrayhapus.png)
+  ![MenghapusArray](Gambar/arrayhapus.png)
 
 - Untuk mengetahui panjang dari sebuah array dapat menggunakan _lenght_
 
-  ![PanjangArray](img/arraypnjg.png)
+  ![PanjangArray](Gambar/arraypnjg.png)
 
 - Untuk mengambil ( mengcopy ) data dari array dan menaruh kedalam variabel baru, dapat menggunakan slice
 
@@ -54,7 +54,7 @@
 
 - Untuk mengubah data didalam array dapat menggunakan sintaks seperti dibawah ini
 
-  ![MengubahArray](img/arrayubah.png)
+  ![MengubahArray](Gambar/arrayubah.png)
 
 **B. Array + Loop**
 
@@ -64,13 +64,13 @@
 
 - Untuk maping sendiri dapat digunakan saat akan melakukan manipulasi, mengubah, mengupdate, mengembalikan nilai array.
 
-  ![MappingArray](img/arraymap.png)
+  ![MappingArray](Gambar/arraymap.png)
 
 **C. Array Multidimensi**
 
 - Array multidimensi adalah dimana ada bagian kolom dan baris untuk mengakses data didalamnya
 
-  ![ArrayMultidimensi](img/arraymulti.png)
+  ![ArrayMultidimensi](Gambar/arraymulti.png)
 
 ---
 
@@ -89,24 +89,24 @@
 
 - Javascript Object adalah tipe data non-primitive yang agak mirip seperti aray, tapi menampung data menggunakan key and value
 
-  ![Object](img/obj1.png)
+  ![Object](Gambar/obj1.png)
 
 - Ada 2 cara untuk mengakses data object
 
   - Menggunakan Dot Notation
 
-    ![Object](img/obj5.png)
+    ![Object](Gambar/obj5.png)
 
   - Menggunakan Bracket Notation ( Kurung Kurawal/ Keriting)
 
 - Untuk menambahkan data key dan value dalam object dapat menggunakan dot
   notation
 
-  ![Object](img/obj6.png)
+  ![Object](Gambar/obj6.png)
 
 - Untuk mengubah data object kita dapat menggunakan dot notation atau menggunakan kurung kotak
 
-  ![MenambahDataObject](img/obj2.png)
+  ![MenambahDataObject](Gambar/obj2.png)
 
 - Untuk menghapus data object kita dapat menggunakan delete dengan sintaks
 
@@ -116,15 +116,15 @@
 
 - Lalu ada method pada object digunakan untuk melakukan suatu tindakan yang dimana method pada object berisikan function
 
-  ![MethodObject](img/obj4.png)
+  ![MethodObject](Gambar/obj4.png)
 
 - Ada Nested Object, dimana object memiliki data bercabang
 
-  ![MethodObject](img/obj7.png)
+  ![MethodObject](Gambar/obj7.png)
 
 - ArrayofObject, Dua tipe data non-primitive yang dapat digunakan secara bersamaan, atau kita dapat menyimpan object didalam sebuah array.
 
-  ![MethodObject](img/obj8.png)
+  ![MethodObject](Gambar/obj8.png)
 
 ---
 
@@ -264,7 +264,7 @@
 
 - Penggambaran Rescrusion case ada maka penggambaran penyelesaian masalahnya seperti ini
 
-  ![ContohPenggambaranRecrusive](img/recrusive.png)
+  ![ContohPenggambaranRecrusive](Gambar/recrusive.png)
 
 ---
 
@@ -291,7 +291,7 @@
 
 - Contoh sintaks untuk asynchronous menggunakan setTimeout (Bagian dari web API)
 
-  ![setTimeout](img/sto.png)
+  ![setTimeout](Gambar/sto.png)
 
 **A. Promise**
 
@@ -305,7 +305,7 @@
 
 - Dalam proses promise ada yang namanya resolve ( saat proses berhasil, akan ditangkap menggunakan .then ) dan rejected (saat proses gagal akan ditangkap menggunakan .catch)
 
-  ![setTimeout](img/Promise.png)
+  ![setTimeout](Gambar/Promise.png)
 
 ---
 
